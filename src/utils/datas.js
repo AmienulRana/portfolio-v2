@@ -27,8 +27,9 @@ import healtyFood from "@images/landing page.png";
 import marketplace from "@images/marketplace.jpg";
 import topupgame from "@images/topupgame.png";
 import undanganDigital from "@images/undangan digital.png";
-import hris from '@images/hris.png'
-import carRental from '@images/car-rental.png';
+import hris from "@images/hris.png";
+import creo from "@images/creo-defi.png";
+import carRental from "@images/car-rental.png";
 
 // Gif Images
 
@@ -64,6 +65,16 @@ const stacks = {
 };
 
 const projects = [
+  {
+    id: 20,
+    name: "Creo Defi",
+    desc: "",
+    image: creo,
+    web: "https://creo-defi.vercel.app/",
+    repo: "",
+    stack: "Next js, Typescript, Tailwind, Wagmi, Thirdweb",
+    gif: "",
+  },
   {
     id: 1,
     name: "HRIS Management",

@@ -14,7 +14,7 @@ export const experiences = [
   {
     title: "Frontend Developer",
     company: "Armada Vision",
-    date: "December 2022 - April  2023",
+    date: "August 2022 - Febuary 2023",
     description: [
       "Develop and maintained web application systems for clients at Armada Vision",
       "Create reusable component for future use and improve quality code",
@@ -24,7 +24,7 @@ export const experiences = [
   {
     title: "Frontend Developer",
     company: "STRT Button",
-    date: "March 2023 - Now",
+    date: "Febuary 2023 - June 2023",
     description: [
       "Developed and maintained responsive and user-friendly web applications at web 3.0 company",
       "Create reusable component for future use and improve quality code",

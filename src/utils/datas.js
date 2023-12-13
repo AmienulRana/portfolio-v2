@@ -30,6 +30,7 @@ import undanganDigital from "@images/undangan digital.png";
 import hris from "@images/hris.png";
 import creo from "@images/creo-defi.png";
 import carRental from "@images/car-rental.png";
+import carRentalV2 from "@images/car-rental-v2.png";
 
 // Gif Images
 
@@ -65,6 +66,16 @@ const stacks = {
 };
 
 const projects = [
+  {
+    id: 20,
+    name: "Cars Rental v.2",
+    desc: "",
+    image: carRentalV2,
+    web: "https://cars-rental-v2-amienulrana.vercel.app/",
+    repo: "https://github.com/AmienulRana/cars-rental-v2",
+    stack: "Next js 13, Typescript, Tailwind, Headless ui, Thirdweb",
+    gif: "",
+  },
   {
     id: 20,
     name: "Creo Defi",

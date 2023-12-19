@@ -6,6 +6,7 @@ import { useEffect } from "react";
 import Navbar from "@/components/navbar/navbar";
 import Footer from "@/components/footer/footer";
 import { poppins, roboto_mono } from "./font";
+import { Analytics } from '@vercel/analytics/react';
 
 export default function RootLayout({ children }) {
   useEffect(() => {
@@ -21,6 +22,8 @@ export default function RootLayout({ children }) {
       <body>
         <Navbar />
         <div className="container mx-auto">{children}</div>
+        <Analytics />
+
         <Footer />
       </body>
     </html>

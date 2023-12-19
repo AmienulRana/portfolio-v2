@@ -7,7 +7,6 @@ export const experiences = [
       "Create website education and website community for Aedu",
       "Developed and maintained responsive and user-friendly web applications",
       "Optimization of performance, accessibility, website SEO based on Google Light Speed",
-      "Implement clean code By Robert C Martin",
       "Create testing for app and web and create documentation for review by PM / CTO",
       "Create mobile applications education using React native",
       "Setup Google console for publish Application to Play Store",

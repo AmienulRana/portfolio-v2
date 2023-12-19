@@ -29,6 +29,7 @@ import topupgame from "@images/topupgame.png";
 import undanganDigital from "@images/undangan digital.png";
 import hris from "@images/hris.png";
 import creo from "@images/creo-defi.png";
+import learning from "@images/aedu.png";
 import carRental from "@images/car-rental.png";
 import carRentalV2 from "@images/car-rental-v2.png";
 
@@ -68,12 +69,12 @@ const stacks = {
 const projects = [
   {
     id: 20,
-    name: "Cars Rental v.2",
+    name: "Learning Education",
     desc: "",
-    image: carRentalV2,
-    web: "https://cars-rental-v2-amienulrana.vercel.app/",
-    repo: "https://github.com/AmienulRana/cars-rental-v2",
-    stack: "Next js 13, Typescript, Tailwind, Headless ui, Thirdweb",
+    image: learning,
+    web: "https://learning.aedu.app/",
+    repo: "",
+    stack: "Next js, Typescript, Tailwind, Redux, Redux-toolkit",
     gif: "",
   },
   {
@@ -94,6 +95,16 @@ const projects = [
     web: "",
     repo: "",
     stack: "Vue, Vuex, Express.js, Tailwind, Mongodb",
+    gif: "",
+  },
+  {
+    id: 20,
+    name: "Cars Rental v.2",
+    desc: "",
+    image: carRentalV2,
+    web: "https://cars-rental-v2-amienulrana.vercel.app/",
+    repo: "https://github.com/AmienulRana/cars-rental-v2",
+    stack: "Next js 13, Typescript, Tailwind, Headless ui, Thirdweb",
     gif: "",
   },
   {
